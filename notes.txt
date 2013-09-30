@@ -1,0 +1,9 @@
+Need to try stuff out on glassfish. Currently only supporting platform according to oracle:
+http://www.oracle.com/technetwork/java/javaee/overview/compatibility-jsp-136984.html
+
+Tomcat 8 will support JavaEE 7, alpha RC3 just released:
+http://tomcat.apache.org/
+
+Need to read more and see if Tomcat 8 is full Java EE 7 web profile or a subset
+
+Looks like JBOSS AS8 will include the Java EE 7 features.
