@@ -1,0 +1,5 @@
+Oct 1
+Reading on JavaEE7 handbook
+Downloaded and installed Glassfish
+
+
