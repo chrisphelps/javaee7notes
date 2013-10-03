@@ -2,4 +2,6 @@ Oct 1
 Reading on JavaEE7 handbook
 Downloaded and installed Glassfish
 
+Oct 2
+Read CDI chapter of JavaEE7 handbook
 
