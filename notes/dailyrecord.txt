@@ -7,3 +7,6 @@ Read CDI chapter of JavaEE7 handbook
 
 Oct 11
 Finished Session EJB chapter of Java EE 7 handbook
+
+Oct 16
+More reading from Java EE 7 handbook
